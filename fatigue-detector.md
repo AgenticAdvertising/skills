@@ -1,6 +1,5 @@
 ---
 name: fatigue-detector
-description: "This skills detects 'Creative Decay' early using consecutive signal tracking, preventing budget waste before ROAS actually crashes"
 metadata: version: 1.1.0
 ---
 
