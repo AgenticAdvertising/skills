@@ -1,35 +1,9 @@
-# Skill 1: The Hook Architect
-**Objective:** To isolate the first 3 seconds of ad delivery as a standalone variable, optimizing for "Thumb-Stop" efficiency and creative velocity.
-
----
-
-## 1. The Hook Diagnostic
-This skill evaluates if a creative is earning its place in the auction. If the Hook Rate is low, the ad is "invisible" regardless of the offer.
-* **Metric:** Hook Rate ($3\text{-second views} \div \text{Impressions}$).
-* **The "3-Day Launch" Rule:** Ignore Day 1 fluctuations. Evaluate on Day 3. If Hook Rate is $<15\%$, the visual/hook is the failure point.
-
-## 2. Creative "Hand-off" Logic
-Analyzes the bridge between the hook and the conversion narrative.
-* **Hold Rate:** ($\text{ThruPlays} \div 3\text{-second views}$). 
-* **Diagnosis:**
-    * **High Hook + Low Hold:** Clickbait or "Pattern Interrupt" that doesn't align with the product.
-    * **Low Hook + High Hold:** Great story, bad "packaging." **Action:** Keep the body, wrap it in a "High-Contrast" hook style.
-
-## 3. Creative Intelligence (The Matt Berman Method)
-* **Style Benchmarking:** Compare creative formats (e.g., *Notes App* vs. *UGC* vs. *Aesthetic*).
-* **Iteration Briefing:** Automatically suggest "Hook Swaps" for high-hold ads. 
-    * *Example:* "Ad_01 has a top-tier 45% Hold Rate but a bottom-tier 12% Hook Rate. Repackage this body copy with the 'Visual ASMR' hook from our current winner."
-
----
----
-
-# Skill 2: The Fatigue Sentinel
+# Skill: The Fatigue Detector
 **Objective:** To detect "Creative Decay" early using consecutive signal tracking, preventing budget waste before ROAS actually crashes.
 
 ---
 
 ## 1. Fatigue Signals (Hierarchy of Urgency)
-Based on the Meta Ads Kit methodology, signals are weighted by how early they appear:
 
 1.  **CTR Decay (Most Critical):** Tracking a **20%+ decline** over **3 consecutive days**. This is the first sign of audience "blindness."
 2.  **Impression Decline (Auction Priority):** If Impressions drop $>30\%$ while spend stays flat, Meta is deprioritizing the ad because of poor "User Value" (Fatigue).
