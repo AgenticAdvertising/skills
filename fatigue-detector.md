@@ -23,4 +23,4 @@ metadata:
 > **Fatigue Alert:** Ad `AD_ID_238` (**Notes App Hero**) is dying. 
 > - **CTR Trend:** 3.2% → 2.8% → 2.1% (🔴 34% drop). 
 > - **Frequency:** 3.8. 
-> **Action:** Pause `AD_ID_238`. Deploy replacement from 'The Hook Architect' queue (Style: 'Testimonial Variant') to maintain delivery volume.
+> - **Action:** Pause `AD_ID_238`. Deploy replacement from 'The Hook Architect' queue (Style: 'Testimonial Variant') to maintain delivery volume.
