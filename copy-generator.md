@@ -1,14 +1,31 @@
 ---
 name: copy-generator
-description: "Generates Meta ad copy matched to the visual — each variant hits a different psychological angle, reinforces the image instead of repeating it, and respects proven length/opener/closer specs."
+description: "Generates Meta ad copy matched to the visual and to the account's proven winners — each variant hits a different psychological angle, reinforces the image instead of repeating it, and respects proven length/opener/closer specs."
 metadata:
-  version: 1.0.0
+  version: 1.1.0
 ---
 
 ## 1. Core Principle
 **Copy reinforces the image. It never repeats it.** Each visual gets its own psychology, opener, and voice — driven by what the image shows (notes app, receipt, chart, tweet, product shot) and where it sits in the funnel. If the copy and image would read the same out loud, the copy is wrong.
 
-## 2. Psychology Framework — The Four Horsemen
+## 2. Audit Account Winners First
+Before writing a single word, pull the account's top‑converting ads and extract the **pattern signature** they share. Match the signature — don't invent a new one.
+
+**Extract from winners:**
+| Dimension | What to capture |
+| :--- | :--- |
+| **Headline shape** | Avg char length · questions vs. statements vs. numbers vs. commands |
+| **Body opener** | Pain · data · question · story |
+| **Social proof** | Customer counts, % lifts, revenue figures that actually appear |
+| **Reading level** | Short‑punchy vs. narrative |
+| **Winning CTA** | "Learn More" vs. "Get Started" vs. "Book Demo" |
+
+**Report the signature back before generating copy:**
+> *Your top 3 ads all open with a specific number and close with social proof. Average headline: 32 chars. Winning CTA: "Book Demo". I'll match that pattern.*
+
+Then every variant generated in §6 must be cross‑checked against this signature.
+
+## 3. Psychology Framework — The Four Horsemen
 Every variant must hit exactly one Horseman. Across a variant pack, cover at least three different ones.
 
 | Horseman | Trigger | Opening Pattern | Best‑Fit Visuals |
@@ -18,7 +35,7 @@ Every variant must hit exactly one Horseman. Across a variant pack, cover at lea
 | **👑 Status** | Peer comparison | "X+ [peers] already [did thing]" | Charts, leaderboards, logo walls |
 | **⚠️ Fear** | Loss aversion, being left behind | "The [competitor] already has this" | Tweets, news‑style, red/alert visuals |
 
-## 3. Copy Specifications
+## 4. Copy Specifications
 | Element | Spec | Why |
 | :--- | :--- | :--- |
 | **Headline** | 25–40 chars (max 50) | Mobile truncation caps CTR above 50. |
@@ -28,21 +45,22 @@ Every variant must hit exactly one Horseman. Across a variant pack, cover at lea
 | **Opener** | Pain, stat, or claim | Never the brand name or "Introducing". |
 | **Closer** | Social proof + soft CTA | "X+ made the switch" beats "Buy now". |
 
-## 4. Funnel Stage Adjustments
+## 5. Funnel Stage Adjustments
 | Stage | Objective | Copy Focus | CTA | Proof Level | Body Length |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **ToFu** | Awareness / traffic | Problem framing, curiosity | Learn More | Light — "X+ use this" | 50–80 words |
 | **MoFu** | Consideration / leads | Solution proof, features | Get Free Audit / See Demo | Medium — case‑study snippets | 80–120 words |
 | **BoFu** | Conversion / sales | Urgency, risk reversal, price | Start Free Trial / Book Demo | Heavy — ROI, testimonials | 60–100 words |
 
-## 5. Variant Generation Rules
+## 6. Variant Generation Rules
 - Produce **3–5 headlines** and **3–5 body variants** per creative.
 - Each variant hits a **different Horseman** — no two variants share the same psychology.
 - **Mix headline structures**: at least one question, one statement, one number‑led, one command.
 - **At least one variant must feel like organic content** (a friend's text, a tweet, a review) — not an ad.
-- Match the chosen Horseman to the image format (see §2).
+- Match the chosen Horseman to the image format (see §3).
+- Cross‑check every variant against the account signature from §2: headline length, opener type, social‑proof style, CTA.
 
-## 6. Forbidden Words & Anti‑Patterns
+## 7. Forbidden Words & Anti‑Patterns
 
 **Banned vocabulary (default):** revolutionary, game‑changer, cutting‑edge, innovative solution, transform your business, unlock potential, unleash, harness power, leverage, next‑level, best‑in‑class, world‑class, seamless, robust, synergy.
 
@@ -55,7 +73,9 @@ Every variant must hit exactly one Horseman. Across a variant pack, cover at lea
 - Identical headline structures across a pack.
 - Hard‑sell CTAs on ToFu ads.
 
-## 7. Operational Output: Variant Pack
+## 8. Operational Output: Variant Pack
+> **Account signature (§2):** top 3 ads open with a specific number, close with social proof. Avg headline: 32 chars. Winning CTA: **Book Demo**.
+>
 > **Creative:** `IMG_554` — *Notes‑app screenshot: "Things my agency does that my CFO hates"* · **Stage:** MoFu · **Assigned Horsemen:** Money · Time · Status
 >
 > **Headlines**
