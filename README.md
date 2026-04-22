@@ -1,4 +1,4 @@
-# skills
+# Ad Ops Skills
 
 Practical AI‑agent skills for running paid ad accounts — diagnostics, monitoring, and creative generation for Meta, Google, LinkedIn, and other channels.
 
