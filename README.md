@@ -4,15 +4,22 @@ Practical AI‑agent skills for running paid ad accounts — diagnostics, monito
 
 Built for media buyers and agencies who want an AI assistant that can answer *"how are my accounts doing?"* and *"what should I do about it?"* without rebuilding the logic from scratch. Compatible with Claude Code, the Claude Agent SDK, and any agent runtime that supports Agent Skills.
 
-## Skills (6)
+## Skills (8)
 
-### Performance & Budget Monitoring
+### Daily Loop — start here
 
-| Skill                                  | What it does                                                                                                     |
-| :------------------------------------- | :--------------------------------------------------------------------------------------------------------------- |
-| [am-i-on-track](am-i-on-track.md)      | Intraday pacing: compares today's spend to expected‑at‑this‑hour, projects EOD, flags over/under‑pacing.         |
-| [past-7days](past-7days.md)            | Weekly campaign‑level performance with WoW deltas and the top ad (name + copy) driving each campaign.            |
-| [whats-running](whats-running.md)      | Active‑campaign inventory with daily budgets, flagging leaks: expired tests, past‑end‑date launches, zombies.    |
+| Skill                             | What it does                                                                                                                                       |
+| :-------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [daily-brief](daily-brief.md)     | Morning digest that chains `am-i-on-track`, `whats-running`, `bleeders-winners`, and `fatigue-detector` into a single prioritized brief.           |
+
+### Performance & Budget
+
+| Skill                                  | What it does                                                                                                                           |
+| :------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------- |
+| [am-i-on-track](am-i-on-track.md)      | Intraday pacing: compares today's spend to expected‑at‑this‑hour, projects EOD, flags over/under‑pacing.                               |
+| [past-7days](past-7days.md)            | Weekly campaign‑level performance with WoW deltas and the top ad (name + copy) driving each campaign.                                  |
+| [whats-running](whats-running.md)      | Active‑campaign inventory with daily budgets, flagging leaks: expired tests, past‑end‑date launches, zombies.                          |
+| [budget-shifter](budget-shifter.md)    | Reallocates budget across campaigns based on ROAS/CPA — finds donors and receivers, with guardrails against learning‑phase resets.     |
 
 ### Creative Optimization
 
