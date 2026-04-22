@@ -4,7 +4,7 @@ Open-source practical AI‑agent Ad Ops skills for running paid ad accounts with
 
 Built for performance marketers/agencies who want to accelerate their Ad Ops loop with AI. Compatible with [Adside.ai](https://adside.ai), ChatGPT, Claude Code, the Claude Agent SDK, and any agent runtime that supports Agent Skills.
 
-## Skills (11)
+## Skills (12)
 
 ### Daily Loop — start here
 
@@ -36,6 +36,7 @@ Built for performance marketers/agencies who want to accelerate their Ad Ops loo
 | Skill                                          | What it does                                                                                                              |
 | :--------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------ |
 | 📋 [ad-qa-checklist](ad-qa-checklist.md)       | Pre‑launch preflight: tracking (UTMs, pixel, events), naming, placements, creative specs, landing‑page message match.     |
+| 🏷 [asset-rename](asset-rename.md)             | Audits campaign/ad‑set/ad names against the Foundr three‑level convention and proposes standardized renames with confidence scores. |
 
 ## Format
 
