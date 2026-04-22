@@ -32,8 +32,16 @@ All these skills are directly available in Adside.ai within the Skills section u
 
 <img width="1822" height="1109" alt="skills-ad-side" src="https://github.com/user-attachments/assets/1c402fe2-3a4d-42b0-831c-4acb181f4855" />
 
+Then you can invoke them with the /command in the Chat:
+
+<img width="1822" height="1109" alt="Screenshot 2026-04-22 at 09 11 39" src="https://github.com/user-attachments/assets/96158d90-4885-4205-bdb3-16f5a78ac603" />
+
+And voilà:
+
+
+
 You an also just drop a skill file into your agent's skills directory (e.g., `~/.claude/skills/` for Claude Code) or reference the raw file from this repo. The agent will pick it up on next invocation.
 
 ## License
 
-MIT — see [LICENSE](LICENSE). Inspired by [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills).
+MIT — see [LICENSE](LICENSE). Inspired by [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) and [https://github.com/TheMattBerman/meta-ads-kit]
