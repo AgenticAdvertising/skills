@@ -1,6 +1,6 @@
 # Ad Ops Skills
 
-Practical AI‑agent Ad Ops skills for running paid ad accounts with AI — diagnostics, monitoring and optimizations for Meta, Google, LinkedIn, and other channels.
+Open-source practical AI‑agent Ad Ops skills for running paid ad accounts with AI — diagnostics, monitoring and optimizations for Meta, Google, LinkedIn, and other channels. PRs are welcome. 🤗
 
 Built for performance marketers/agencies who want to accelerate their Ad Ops loop with AI. Compatible with [Adside.ai](https://adside.ai), ChatGPT, Claude Code, the Claude Agent SDK, and any agent runtime that supports Agent Skills.
 
