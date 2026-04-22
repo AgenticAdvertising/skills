@@ -35,7 +35,7 @@ Each skill is a single markdown file with frontmatter (`name`, `description`, `m
 
 ## Usage
 
-All these skills are directly available in Adside.ai within the Skills section under Settings:
+All these skills are directly available in [Adside.ai](https://adside.ai), within the Skills section under Settings:
 
 <img width="1822" height="1109" alt="Screenshot 2026-04-22 at 09 29 45" src="https://github.com/user-attachments/assets/500c5402-41ff-456c-a0c0-cf8be255cdb6" />
 
