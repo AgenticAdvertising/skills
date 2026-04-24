@@ -71,8 +71,6 @@ And voilà:
 
 <img width="1822" height="1109" alt="Screenshot 2026-04-22 at 09 31 00" src="https://github.com/user-attachments/assets/8f82df96-8371-4d0c-9172-38c4b9f16655" />
 
-You an also just drop a skill file into your agent's skills directory (e.g., `~/.claude/skills/` for Claude Code) or reference the raw file from this repo. The agent will pick it up on next invocation.
-
 ## License
 
 MIT — see [LICENSE](LICENSE). Inspired by [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) and [TheMattBerman/meta-ads-kit](https://github.com/TheMattBerman/meta-ads-kit) 
