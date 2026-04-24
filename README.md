@@ -4,7 +4,7 @@ Open-source practical AI‑agent Ad Ops skills for running paid ad accounts with
 
 Built for performance marketers/agencies who want to accelerate their Ad Ops loop with AI. Compatible with [Adside.ai](https://adside.ai), ChatGPT, Claude Code, the Claude Agent SDK, and any agent runtime that supports Agent Skills.
 
-## Skills (18)
+## Skills (19)
 
 ### Briefings — start here
 
@@ -40,6 +40,7 @@ Built for performance marketers/agencies who want to accelerate their Ad Ops loo
 | :------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 🔭 [competitor-ads-watch](competitor-ads-watch.md) | Weekly scan of Meta Ad Library for tracked competitors — surfaces new angles, formats, long‑running winners, and gaps vs. your mix.                                  |
 | 👂 [social-listening](social-listening.md)         | Brand sentiment across Reddit, X, and G2 — clusters themes, extracts verbatim quotes, and translates each into a paid‑ads move (hook, preempt, versus angle, pause). |
+| 🕵 [competitive-social-listening](competitive-social-listening.md) | Competitor sentiment across Reddit, X, and G2 — surfaces complaints, switcher signals, feature gaps, and price backlash as **wedge hooks and switcher creative** to use against the target. |
 
 ### Launch & Audit
 
