@@ -69,6 +69,8 @@ Same in Adside.ai:
 
 And voilà:
 
+<img width="1047" height="1467" alt="Screenshot 2026-04-24 at 09 14 00" src="https://github.com/user-attachments/assets/b0ced54c-58c6-4051-be6c-d0d451b34b16" />
+
 <img width="1822" height="1109" alt="Screenshot 2026-04-22 at 09 31 00" src="https://github.com/user-attachments/assets/8f82df96-8371-4d0c-9172-38c4b9f16655" />
 
 ## License
